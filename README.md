@@ -1,6 +1,4 @@
-WELCOME TO MY GITHUB PROFILE!
-
-<hr>
+<h1>Hello!</h1>
 
 <p>I always love coding. Since I was a kid I always was fascinating about this world. My mom gave me a computer when I was 16 years old and my first website was build using MS Word. As I used to love skateboard, I built a website called "Furia Radical" and I used to print many advertisement and go house by house putting those advertisement in my neighbor's mailbox.</p>
 
