@@ -10,7 +10,7 @@
 
 <p><img src="https://github.com/user-attachments/assets/022fcd9a-2515-4279-b37e-9754117a2ecf" width="20px">  <strong>Cybersecurity</strong> Enthusiast!</p>
 
-<p><img src="https://github.com/user-attachments/assets/78ad7cca-0ba0-4fb7-ba01-c9fc72c35706" width="20px">  I just released my <strong><a href="https://l.instagram.com/?u=https%3A%2F%2Fbuff.ly%2F412tGBk%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaYN_Vf-_vLXFfXA_g7L9DPhlGwpfYgHtTN0NVePQAX_pQ95Lo9LJ9ef7o0_aem_H6rGGIggaz8wGNLQv_Pf-w&e=AT3_e5IYl7EFzEJlfH-hFEKLdy2KuoZKEQAY7QWT5QyGVfGV7ktk6HhcGQRbHSqoLA-4ZJ9jrx8sxHRezZFLRrTkwq_4BW7G74lgadYCTwwjZ3buDqUpkg">1st Ebook</a> about Privacy.</strong></p>
+<p><img src="https://github.com/user-attachments/assets/78ad7cca-0ba0-4fb7-ba01-c9fc72c35706" width="20px">  I just released my <strong><a href="https://l.instagram.com/?u=https%3A%2F%2Fbuff.ly%2F412tGBk%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaYN_Vf-_vLXFfXA_g7L9DPhlGwpfYgHtTN0NVePQAX_pQ95Lo9LJ9ef7o0_aem_H6rGGIggaz8wGNLQv_Pf-w&e=AT3_e5IYl7EFzEJlfH-hFEKLdy2KuoZKEQAY7QWT5QyGVfGV7ktk6HhcGQRbHSqoLA-4ZJ9jrx8sxHRezZFLRrTkwq_4BW7G74lgadYCTwwjZ3buDqUpkg">1st Ebook</a></strong> about Privacy.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
