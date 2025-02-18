@@ -4,9 +4,9 @@
 
 <p><img src="https://github.com/user-attachments/assets/f89a7a45-6ca9-4393-b5a3-3878304bab46" width="20px">  I am Full-Stack Developer working as Freelance.</p>
 
-<p><img src="https://github.com/user-attachments/assets/f3352ad1-c8ec-4009-87ba-d37097315bc6" width="20px">  I have a website called <a href="http://www.vivernoexterior.com">Viver no Exterior</a> where I post a lot of information to the Brazilian Community living abroad.</p>
+<p><img src="https://github.com/user-attachments/assets/f3352ad1-c8ec-4009-87ba-d37097315bc6" width="20px">  I have a website called <a href="http://www.vivernoexterior.com" target="_blank">Viver no Exterior</a> where I post a lot of information to the Brazilian Community living abroad.</p>
 
-<p><img src="https://github.com/user-attachments/assets/f11c9f28-4d7c-4707-92be-dc1d5ac9fc14" width="20px">  I have my Freelance website called <a href="http://www.imaggineit.com">Imaggine It</a>.</p>
+<p><img src="https://github.com/user-attachments/assets/f11c9f28-4d7c-4707-92be-dc1d5ac9fc14" width="20px">  I have my Freelance website called <a href="http://www.imaggineit.com" target="_blank">Imaggine It</a>.</p>
 
 <p><img src="https://github.com/user-attachments/assets/022fcd9a-2515-4279-b37e-9754117a2ecf" width="20px">  Cybersecurity Enthusiast!</p>
 
